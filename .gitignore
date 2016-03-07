@@ -1,0 +1,14 @@
+*.pyc
+*.*~
+*~
+*.sh
+*.jar
+*.*swp
+*.nc
+*.pdf
+logs/
+plots/
+*.egg-info/*
+*build/
+dist/
+
